@@ -4,5 +4,6 @@ Public website for **StatMe – Live Fight Stats** (iOS). The app's source code 
 
 - Home: https://gemdev2005.github.io/
 - Privacy Policy: https://gemdev2005.github.io/statme/privacy/
+- Terms of Use: https://gemdev2005.github.io/statme/terms/
 - Support: https://gemdev2005.github.io/statme/support/
 - app-ads.txt (AdMob seller verification): https://gemdev2005.github.io/app-ads.txt
